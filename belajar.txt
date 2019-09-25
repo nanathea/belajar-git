@@ -1,5 +1,6 @@
 tes
 belajar git
 perubahan tahap 2
-perubahan tahap 3
-perubahan tahap 4
+perubahan tahap 3 tiga
+perubahan tahap 4 opat
+sip
