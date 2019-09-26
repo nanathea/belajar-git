@@ -1,2 +1,4 @@
 file yang d abaikan
 data koneksi
+
+fngsi kelas atas
